@@ -39,7 +39,7 @@
   
   .header {
     background-color: #ede6e6;
-    margin: 0 100px;
+    
     border: 1px solid;
     border-color: rgb(0 0 0 / 10%);
     border-radius: 16px 8px;
@@ -75,7 +75,7 @@
     bottom: 0;
     justify-content: center;
     background-color: #ede6e6;
-    margin: 0 100px;
+   
     border: 1px solid;
     border-color: rgb(0 0 0 / 10%);
     border-radius: 16px 8px;
@@ -142,11 +142,8 @@
     margin: 0;
     font-family: Arial, sans-serif;
   }
-  @media only screen and (max-width: 768px) {
-    body {
-      height: 160vh;
-    }
-  }
+ 
+  
   
   img {
     max-width: 10%;
@@ -155,8 +152,7 @@
   }
   body,
   html {
-    margin: 0;
-    padding: 0;
+    
     height: 100%;
     font-family: Arial, sans-serif;
   
@@ -179,7 +175,10 @@
     text-align: center;
   }
   h1 {
+    border: 2px solid red;
+    border-bottom: solid;
     color: #007bff;
+    border-radius: 20px;
     margin-bottom: 30px;
     direction: ltr;
   }
