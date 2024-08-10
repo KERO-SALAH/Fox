@@ -1,4 +1,10 @@
-  /*-----------------Page : Important Links-------------*/
+  /*-----------------Page : Certificate Gallery-------------*/
+.certificate img {
+    max-width: -webkit-fill-available;
+}
+  /*-----------------End of Page : Certificate Gallery -------------*/
+ 
+ /*-----------------Page : Important Links-------------*/
 .Important a {
     background-color: beige;
     margin: 5px;
