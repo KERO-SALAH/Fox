@@ -275,3 +275,10 @@ a{
     border-radius: 20px;
     padding: 5px;
 }
+h2.main {
+    padding: 0px 50px;
+}
+h2 {
+    display: inline;
+    border-bottom: 2px solid;
+}
