@@ -7,6 +7,8 @@
   border-color: rgb(0 0 0 / 10%);
   border-radius: 16px 8px;
   overflow: hidden;
+  display: flex;
+  flex-direction: column;
   color: black;
   text-decoration: none;
 }
@@ -156,9 +158,6 @@ html {
   margin: 0;
   padding: 0;
   height: 100%;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
   font-family: Arial, sans-serif;
 
 }
