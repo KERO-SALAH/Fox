@@ -2,6 +2,10 @@
 .certificate img {
     max-width: -webkit-fill-available;
 }
+.certificate{
+    border:2px solid ;
+    border-radius:20px;
+  }
   /*-----------------End of Page : Certificate Gallery -------------*/
  
  /*-----------------Page : Important Links-------------*/
