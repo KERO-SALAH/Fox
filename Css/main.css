@@ -264,11 +264,7 @@
     text-align: center;
   }
   h1 {
-    border: 2px solid red;
-    border-bottom: solid;
     color: #007bff;
-    border-radius: 20px;
-    margin-bottom: 30px;
     direction: ltr;
   }
   .content {
