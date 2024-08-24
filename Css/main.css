@@ -7,7 +7,67 @@
     border-radius:20px;
   }
   /*-----------------End of Page : Certificate Gallery -------------*/
- 
+   /*-----------------Page : first-semester-of-sophomore-year------------*/
+
+.box {
+  border-radius: 20px;
+  border: 5px solid;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  border-color: rgb(0 0 0 / 10%);
+}
+.box img {
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  border-radius: 90px;
+  overflow: hidden;
+}
+.box a {
+  border: 0px;
+}
+.info-courses {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-items: center;
+  gap: 20px;
+}
+.contents {
+  border: 5px solid;
+  border-radius: 20px;
+  margin: 20px;
+  border-color: rgb(0 110 229);
+}
+.total .title h1,.total .content{
+    
+    text-align: left;
+    border: 7px solid;
+    border-radius: 0px;
+    color: white;
+    display: inline-block;
+    background-color: #007bff;
+    border-color: rgb(0 0 0 / 10%);
+    border-bottom-right-radius: 20px;
+  
+
+}
+/* .total{
+    border: 5px solid;
+    border-radius: 20px;
+    margin: 20px;
+    border-color: rgb(0 110 229);
+} */
+
+
+
+
+
+
+
+  /*-----------------end Page : Certificate Gallery-------------*/
+
  /*-----------------Page : Important Links-------------*/
 .Important a {
     background-color: beige;
